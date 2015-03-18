@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/Users/Max/Library/Mobile Documents/com~apple~CloudDocs/RMXLib/JAVA/RattleGL/lwjgl/jar/lwjgl.jar" sourcepath="/Users/Max/Library/Mobile Documents/com~apple~CloudDocs/RMXLib/JAVA/RattleGL/lwjgl/src.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/Users/Max/Library/Mobile%20Documents/com~apple~CloudDocs/RMXLib/JAVA/RattleGL/lwjgl/doc/javadoc.zip!/"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/Users/Max/Library/Mobile Documents/com~apple~CloudDocs/RMXLib/JAVA/RattleGL/lwjgl/native"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/Max/Library/Mobile Documents/com~apple~CloudDocs/RMXLib/JAVA/RattleGL/lwjgl/src.zip"/>
+	<classpathentry kind="lib" path="/Users/Max/Library/Mobile Documents/com~apple~CloudDocs/RMXLib/JAVA/RattleGL/lwjgl/doc/javadoc.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
